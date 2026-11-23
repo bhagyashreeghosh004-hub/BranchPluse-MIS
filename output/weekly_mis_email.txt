@@ -1,0 +1,24 @@
+Subject: Weekly Branch MIS | FY 2025-26 | Network health 90.3/100 | 2 branch(es) need attention
+
+Dear Team,
+
+Please find attached the branch MIS pack for FY 2025-26. Key points:
+
+- Premium achieved: ₹7.37 Cr against a target of ₹7.14 Cr (103.2% achievement).
+- Policies issued: 6,108.
+- Claim settlement ratio: 90.3% (456 of 505 claims).
+- Renewal rate: 81.6%.
+- Branch status: 8 Green, 2 Amber, 2 Red.
+
+Top performers: Aundh (96.3), Shivajinagar (95.2), Kothrud (94.9).
+Needs attention: Katraj (74.5), Pimpri (80.8), Chinchwad (86.7).
+
+Suggested actions:
+1. Pimpri (Anjali Gaikwad): agree a recovery plan to close the ₹9.1 lakh gap to target; start renewal follow-ups (renewal rate 69%).
+2. Katraj (Sneha Jadhav): agree a recovery plan to close the ₹8.3 lakh gap to target; review pending claims (average TAT is 13.3 days); audit rejected and pending claims (settlement ratio 83%); start renewal follow-ups (renewal rate 68%).
+
+All figures were reconciled against the source data (see the DQ_Report sheet). Please reply with any corrections before this is circulated further.
+
+Regards,
+Bhagyashree Ghosh
+MIS Team

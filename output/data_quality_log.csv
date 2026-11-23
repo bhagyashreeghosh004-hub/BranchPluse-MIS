@@ -1,0 +1,10 @@
+Table,Issue Found,Rows Affected,Action Taken
+Policies,Branch code had spaces / lowercase,12,"Standardised to upper-case, trimmed"
+Policies,Duplicate Policy_ID,25,Removed duplicates (kept first)
+Policies,Zero / negative / missing premium,10,Removed (reversal entries are not new business)
+Policies,Missing line of business (LOB),9,Removed (cannot be classified in reports)
+Policies,Branch code not in Branch_Master,0,Removed
+Claims,Claim linked to a policy that does not exist (VLOOKUP would return #N/A),7,Removed
+Claims,Settled claim with impossible TAT (<= 0 days),5,TAT set to blank so averages are not distorted
+Renewals,Missing renewal outcome,8,Removed
+Policies,Rows in raw file / rows after cleaning,6152,6108 rows kept (44 removed in total)
